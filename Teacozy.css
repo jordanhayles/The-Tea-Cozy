@@ -1,0 +1,73 @@
+.top{
+	height: 69px;
+	width: 100%;
+	background-color: black;
+	font-family: Helvetica;
+	color: seashell;
+	text-align: center;
+	text-decoration: underline;
+
+}
+.top1,th{
+	color: seashell;	
+}
+body{
+	background-color: black;
+	font-family: Helvetica;
+	color: seashell;
+}
+.mission
+{
+	position: absolute;
+  top: 61%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color:black;
+  width:100%;
+  font-family: Helvetica;
+	color: seashell;
+}
+.locations{
+	background-image: url(img-locations-background.jpg);
+	height: 568px;
+	width: 1050px;
+
+}
+.location1 {
+  position: absolute;
+  top: 1590px;
+  left: 200px;
+  background-color:black;
+  width: 300px;
+  height: 200px;
+}
+.location2
+{
+  position: absolute;
+  top: 1590px;
+  left: 530px;
+  background-color:black;
+  width: 300px;
+  height: 200px;
+}
+
+
+.location3
+{
+  position: absolute;
+  top: 1590px;
+  left: 860px;
+  background-color:black;
+  width: 300px;
+  height: 200px;
+  opacity: 0.9;
+}
+footer{
+	background-color: black;
+	font-family: Helvetica;
+	color: seashell;
+	text-align: left;
+	font-size: 20px;
+	font-weight: bold;
+
+}
